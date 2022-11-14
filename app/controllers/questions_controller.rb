@@ -16,9 +16,9 @@ class QuestionsController < ApplicationController
         "I don't care, get dressed and go to work!"
       end
     end
-endgit
+end
 #what will happen to the user input based on the params
 #Set the conditions. What will happen if I use a ?, or what will the coach reply...
 #in this exercise we use params to print out what the question is.
 #the page will be the view, the controller is the inner-workings of how everything will behave.
-#the / routes you to the next page i.e. url/ask
+#the / routes you to the next page i.e. url/ask.
